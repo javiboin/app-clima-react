@@ -1,16 +1,19 @@
-# React + Vite
+# App de clima en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Como primer proyecto en React quiero poder mostrarles la clásica y tradicional App del clima
 
-Currently, two official plugins are available:
+<img width="765" height="462" alt="Captura App-clima-react" src="https://github.com/user-attachments/assets/c5d56099-03dd-4585-b75e-f7e2d223aa0f" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instalación
 
-## React Compiler
+- Clona el repositorio
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- Solicita una API KEY creando una cuenta en https://home.openweathermap.org/ 
 
-## Expanding the ESLint configuration
+<img width="566" height="236" alt="image" src="https://github.com/user-attachments/assets/7e979fd3-dbec-407b-baea-73f5085db865" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Usa el archivo ```.env.example``` quitandole la extensión ```.example``` y pega la API KEY
+
+<img width="321" height="79" alt="image" src="https://github.com/user-attachments/assets/6313cc8c-e3e3-4de7-9cdc-508a49c69c81" />
+
+- Corre el proyecto

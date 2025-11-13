@@ -4,8 +4,14 @@ Como primer proyecto en React quiero poder mostrarles la clásica y tradicional 
 
 <img width="765" height="462" alt="Captura App-clima-react" src="https://github.com/user-attachments/assets/c5d56099-03dd-4585-b75e-f7e2d223aa0f" />
 
-### Instalación
+## ¿Cómo utilizarlo?
 
+Puedes ir directamente al enlace o clonar este repositorio. 
+
+### Enlace
+https://app-clima-react-javiboin.netlify.app/
+
+### Instalación
 - Clona el repositorio
 
 - Solicita una API KEY creando una cuenta en https://home.openweathermap.org/ 
